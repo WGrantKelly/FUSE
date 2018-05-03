@@ -1,0 +1,65 @@
+========================================
+CS/COE 1550 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Grant Kelly
+
+Lecture section:  MW @ 3
+
+Recitation day and time:  T @ 5
+
+Assignment #:  4
+
+Program due date:  4/22/18
+
+Handed in date:  4/22/18
+
+Source code file name(s):
+
+
+cs1550.c
+
+
+
+
+Other file name(s) (if relevant):
+
+
+
+info_sheet.txt
+
+
+
+Does your program run without error?: Yes
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+My Program should run relatively flawlessly. When appending to a file in PICO, it can get slightly buggy, but I am not sure if that is on fuse's end. Everything should work according to the description/rubric.
+
+
+I have tested :
+
+mkdir, cd, ls, cat, and pico
+They all work as they should.
+
+
+
+Additional comments to the grader:
+
+I did not include a makefile, because I used the one in the fuse file system.
+I am assuming that we did not need to make our own make file, because you will probably be doing testing in the fuse filesystem, so you will have one available. 
+
+My program makes with a couple of warnings, but those warnings do not affect the execution from what I can tell. If there is a problem with making/compiling my program, please reach out to me.
+
+
+
+I put 30ish hours into this project because I need to do well on it. If there is anything wrong with it in any way please e-mail me so we can discuss it. Thank you!
+
+
+
+
